@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'lkaien 的blog', // Title for your website.
+  title: '董小姐', // Title for your website.
   tagline: '记录生活',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} 董小姐`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
